@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2026 - To: 05 April 2026
+From: 30 March 2026 - To: 06 April 2026
 
-Java              12 hrs 56 mins        ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
-Protocol Buffer   8 hrs 27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
-TypeScript        6 hrs 3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-YAML              2 hrs 32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Bash              2 hrs 30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Java              11 hrs 30 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
+Protocol Buffer   9 hrs 32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
+TypeScript        8 hrs 7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Other             4 hrs 20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Bash              3 hrs 13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
 ```
 
 <!--END_SECTION:waka-->
