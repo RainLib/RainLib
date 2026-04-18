@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2026 - To: 16 April 2026
+From: 10 April 2026 - To: 17 April 2026
 
-Java              15 hrs 50 mins        ███████░░░░░░░░░░░░░░░░░░   27.58 %
-Protocol Buffer   13 hrs                █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-Other             8 hrs 21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-Bash              4 hrs 15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Java Properties   2 hrs 59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Java              18 hrs 28 mins        ████████░░░░░░░░░░░░░░░░░   31.46 %
+Protocol Buffer   12 hrs 40 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
+Other             7 hrs                 ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Bash              3 hrs 36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Java Properties   3 hrs 30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 ```
 
 <!--END_SECTION:waka-->
