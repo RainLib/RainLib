@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2026 - To: 24 May 2026
+From: 18 May 2026 - To: 25 May 2026
 
-Markdown          5 hrs 53 mins         █████████▒░░░░░░░░░░░░░░░   37.09 %
-TypeScript        4 hrs 30 mins         ███████░░░░░░░░░░░░░░░░░░   28.38 %
-JSON              1 hr 14 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Bash              1 hr 2 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Protocol Buffer   48 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Markdown          5 hrs 38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.52 %
+TypeScript        4 hrs 1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
+Rust              3 hrs 54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.46 %
+Bash              1 hr 26 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+JSON              1 hr 20 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
 ```
 
 <!--END_SECTION:waka-->
