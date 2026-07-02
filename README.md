@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2026 - To: 30 June 2026
+From: 24 June 2026 - To: 01 July 2026
 
-TypeScript        6 hrs 43 mins         ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-Protocol Buffer   4 hrs 19 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
-Java              3 hrs 38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-Other             3 hrs 9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Markdown          1 hr 53 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Java              5 hrs 27 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+Protocol Buffer   5 hrs 6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.65 %
+TypeScript        3 hrs 4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+Other             2 hrs 46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+Markdown          1 hr 19 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
 ```
 
 <!--END_SECTION:waka-->
