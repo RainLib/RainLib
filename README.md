@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2026 - To: 11 August 2026
+From: 05 August 2026 - To: 12 August 2026
 
-SQL               22 hrs 6 mins         ███████████▓░░░░░░░░░░░░░   46.48 %
-Markdown          5 hrs 19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-Swift             5 hrs 12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-Rust              3 hrs 32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-TypeScript        3 hrs                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+SQL               12 hrs 12 mins        ████████░░░░░░░░░░░░░░░░░   32.52 %
+Markdown          5 hrs 19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Swift             5 hrs 12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Rust              3 hrs 32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+TypeScript        3 hrs                 ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
 ```
 
 <!--END_SECTION:waka-->
