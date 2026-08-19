@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2026 - To: 17 August 2026
+From: 11 August 2026 - To: 18 August 2026
 
-TypeScript        6 hrs 41 mins         ███████▓░░░░░░░░░░░░░░░░░   31.12 %
-GDScript3         2 hrs 51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Makefile          2 hrs 39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-Rust              2 hrs 30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Markdown          1 hr 28 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+TypeScript        5 hrs 35 mins         █████████▓░░░░░░░░░░░░░░░   38.48 %
+Makefile          1 hr 36 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+Rust              1 hr 26 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Markdown          1 hr 8 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Go                1 hr 2 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
 ```
 
 <!--END_SECTION:waka-->
