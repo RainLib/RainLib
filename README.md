@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2026 - To: 25 August 2026
+From: 19 August 2026 - To: 26 August 2026
 
-Markdown     3 hrs 7 mins          ███████░░░░░░░░░░░░░░░░░░   28.44 %
-TypeScript   2 hrs 43 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.84 %
-Swift        1 hr 49 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Git Config   1 hr 5 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-CSS          45 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+TypeScript        4 hrs 12 mins         ███████░░░░░░░░░░░░░░░░░░   28.27 %
+Go                3 hrs 14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
+Markdown          2 hrs 11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+Swift             1 hr 49 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+Python            1 hr 31 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
 ```
 
 <!--END_SECTION:waka-->
