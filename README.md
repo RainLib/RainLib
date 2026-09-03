@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2026 - To: 01 September 2026
+From: 26 August 2026 - To: 02 September 2026
 
-Go                3 hrs 18 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
-Markdown          2 hrs 54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.11 %
-TypeScript        2 hrs 28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-Rust              1 hr 26 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-Python            1 hr 23 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Rust          1 hr 26 mins          █████████▒░░░░░░░░░░░░░░░   36.96 %
+Markdown      1 hr 1 min            ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
+Swift         27 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+JavaScript    14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+C#            11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->
