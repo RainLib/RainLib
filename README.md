@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-GDScript3    1 hr 35 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
-TypeScript   1 hr 25 mins          █████░░░░░░░░░░░░░░░░░░░░   19.96 %
-Swift        1 hr 4 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-Groovy       37 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-JSON         31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+TypeScript        3 hrs 17 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
+GDScript3         1 hr 35 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+JSON              1 hr 22 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Markdown          1 hr 20 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+Go                58 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
 ```
 
 <!--END_SECTION:waka-->
