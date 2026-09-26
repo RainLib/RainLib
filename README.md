@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2026 - To: 24 September 2026
+From: 18 September 2026 - To: 25 September 2026
 
-TypeScript        4 hrs 11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
-MDX               3 hrs 32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
-Other             2 hrs 58 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-Markdown          2 hrs 55 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-Go                1 hr 32 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+MDX               3 hrs 32 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+TypeScript        2 hrs 59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
+Other             2 hrs 58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+Markdown          2 hrs 41 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+Go                1 hr 32 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
 ```
 
 <!--END_SECTION:waka-->
