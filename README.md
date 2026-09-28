@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2026 - To: 26 September 2026
+From: 20 September 2026 - To: 27 September 2026
 
-MDX               3 hrs 32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
-Markdown          2 hrs 30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
-TypeScript        2 hrs 11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-Other             1 hr 37 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-Java              1 hr 1 min            ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+MDX               3 hrs 16 mins         ████████▒░░░░░░░░░░░░░░░░   33.35 %
+Markdown          2 hrs 18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+Other             1 hr 32 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+Java              1 hr 1 min            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+Go                56 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
 ```
 
 <!--END_SECTION:waka-->
