@@ -74,9 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2026 - To: 12 October 2026
+From: 06 October 2026 - To: 13 October 2026
 
-No activity tracked
+Markdown          27 hrs 54 mins        ███████░░░░░░░░░░░░░░░░░░   28.49 %
+TypeScript        24 hrs 44 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
+JavaScript        15 hrs 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Go                12 hrs 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Java              5 hrs 53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
 ```
 
 <!--END_SECTION:waka-->
