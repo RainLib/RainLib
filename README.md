@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2026 - To: 18 October 2026
+From: 12 October 2026 - To: 19 October 2026
 
-Java         5 hrs 53 mins         ████████████▓░░░░░░░░░░░░   50.51 %
-Python       1 hr 44 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-Markdown     1 hr 17 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-Text         1 hr 3 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-TypeScript   46 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+Java         1 hr 27 mins          ███████░░░░░░░░░░░░░░░░░░   28.37 %
+Markdown     1 hr 17 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+Python       1 hr 15 mins          ██████░░░░░░░░░░░░░░░░░░░   24.66 %
+JavaScript   24 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+GDScript3    16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 ```
 
 <!--END_SECTION:waka-->
